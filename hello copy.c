@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-   int a,b,c,kkk;
+   int a,b,c,k;
 
    printf("세 징수의 최댓값을 구합니다.\n");
    printf("a값:  "); scanf("%d",&a);
