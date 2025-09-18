@@ -17,8 +17,8 @@ int main(void){
     i++;
     }
 
-    for (int i = 1; i <= n; i++){
-        sum2 += i;
+    for (int j = 1; j <= n; j++){
+        sum2 += j;
     }
     printf("1부터 %d까지의 총합은 %d 입니다.\n",n,sum);
     printf("1부터 %d까지의 총합은 %d 입니다.\n",n,sum2);
